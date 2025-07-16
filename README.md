@@ -1,4 +1,4 @@
-# Retail Sales ETL Pipeline
+# ETL Pipeline with Apache Airflow
 
 **Apache Airflow implementation for automated daily sales data processing**
 
