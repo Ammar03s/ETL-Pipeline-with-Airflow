@@ -1,6 +1,6 @@
 # ETL Pipeline with Apache Airflow
 
-**Apache Airflow implementation for automated daily sales data processing**
+**Apache Airflow implementation for automated daily sales data processing with DAG**
 
 ## Overview
 
